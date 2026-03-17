@@ -37,3 +37,5 @@ It includes:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+live demo:
+https://customer-churn-project-kiq5hi52z67cprzx8ytlsu.streamlit.app/
